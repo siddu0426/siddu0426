@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Siddhartha Mylavarapu</h1>
+<h3 align="center">🚀 Web Dev | 💻 Competitive Programmer | 🌱 Lifelong Learner</h3>
 
-<!--
-**siddu0426/siddu0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**  
+- 🎓 I'm a Computer Science student passionate about **design, development and problem solving**    
+- 📚 Trying to be consistent in what I am doing  
+- 🚀 Learning by building: From dummy UIs to real-time applications.  
+- 📫 Reach me at **msvssiddhartha@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages & Scripting:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+
+**Tools & IDEs:**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
+
+---
+
+### 📊 GitHub Stats
+
+![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+
+---
+
+### 💡 Quote I Live By
+> “Stay hungry. Stay foolish.” – Steve Jobs
+
+Thanks for visiting my profile! 💖 Feel free to star ⭐ any project you liked!
