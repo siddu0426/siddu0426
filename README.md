@@ -40,22 +40,21 @@
 
 ### 📊 GitHub Stats
 
-![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddu0426&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddu0426&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/siddhartha-mylavarapu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/siddu0426)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:msvssiddhartha@gmail.com)
 
 ---
 
 ### 💡 Quote I Live By
-> “Stay hungry. Stay foolish.” – Steve Jobs
+> “Stay delsusional, work unrealistically ” - Siddhartha Mylavarapu
 
-Thanks for visiting my profile! 💖 Feel free to star ⭐ any project you liked!
+Feel free to star ⭐ any project you liked!
