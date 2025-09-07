@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Mylavarapu</h1>
-<h3 align="center">🚀 Web Dev | 💻 Competitive Programmer | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Web Dev | 🏹 DSA Archer | 🛠️ Turning Crazy Ideas into Code</h3>
 
 ---
 
