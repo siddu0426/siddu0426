@@ -7,7 +7,6 @@
 - 🎓 I'm a Computer Science student passionate about **design, development and problem solving**    
 - 📚 Trying to be consistent in what I am doing  
 - 🚀 Learning by building: From dummy UIs to real-time applications.  
-- 📫 Reach me at **msvssiddhartha@gmail.com**  
 
 ---
 
