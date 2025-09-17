@@ -40,6 +40,7 @@
 ### 📊 GitHub Stats
 
 ![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddu0426&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddu0426&theme=radical" height="160" />
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddu0426&layout=compact&theme=radical)
 
